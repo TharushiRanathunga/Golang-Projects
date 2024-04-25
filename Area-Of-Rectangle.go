@@ -1,7 +1,8 @@
+// finding the area of a rectangle
 package main
 
 import (
-    "fmt"
+	"fmt"
 )
 
 func main() {
