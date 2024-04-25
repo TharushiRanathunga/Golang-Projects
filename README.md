@@ -1,2 +1,2 @@
-# Golang-Projects_1
+# Golang-Projects
 Daily Codes
